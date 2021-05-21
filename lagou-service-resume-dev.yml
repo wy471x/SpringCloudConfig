@@ -1,4 +1,4 @@
 mysql:
   url: jdbc:mysql://120.55.38.243:3306/java-advance?useUnicode=true&characterEncoding=utf8
 lagou:
-  message: Hello, Lagou A!
+  message: Hello, Lagou B!
