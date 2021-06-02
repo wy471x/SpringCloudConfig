@@ -16,5 +16,5 @@ mail:
   password: odouqnhcdxqpbfgj
   default-encoding: utf-8
 ip:
-  minutes: 5
+  minutes: 0.5
   times: 10
